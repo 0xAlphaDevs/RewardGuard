@@ -15,7 +15,7 @@ Sybil protection for protocol rewards and airdrops using proof of machinehood | 
 ## Links
 
 - [Presentation](https://www.canva.com/design/DAGJ81kfe-g/rXTxKIttpU6PKiZJdraQSQ/view)
-- [Demo Video]()
+- [Demo Video](https://youtu.be/3g1UbOYXfm0)
 
 ## Introduction
 
